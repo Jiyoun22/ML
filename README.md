@@ -13,6 +13,7 @@ The Korean introduction is above, and the English introduction follows below.
 
 ### 사용한 데이터
 1. 네 브랜드의 카페 위치를 크롤링하여 정보를 가져왔다. (2024년 11월 28일 기준)
+   
  스타벅스 매장 목록 사이트
 
  https://www.starbucks.co.kr/store/store_map.do 
