@@ -14,28 +14,28 @@ The Korean introduction is above, and the English introduction follows below.
 ### 사용한 데이터
 1. 네 브랜드의 카페 위치를 크롤링하여 정보를 가져왔다. (2024년 11월 28일 기준)
    
- 스타벅스 매장 목록 사이트
+   스타벅스 매장 목록 사이트
 
- https://www.starbucks.co.kr/store/store_map.do 
+   https://www.starbucks.co.kr/store/store_map.do 
 
- 매머드 커피 매장 목록 사이트
+   매머드 커피 매장 목록 사이트
  
- https://www.mmthcoffee.com/sub/store.html?sido=%EC%84%9C%EC%9A%B8&gugun1= 
+   https://www.mmthcoffee.com/sub/store.html?sido=%EC%84%9C%EC%9A%B8&gugun1= 
 
- 이디야 커피 매장 목록 사이트
+   이디야 커피 매장 목록 사이트
  
- https://www.ediya.com/contents/find_store.html
+   https://www.ediya.com/contents/find_store.html
  
- 투썸플레이스 커피 매장 목록 사이트
+   투썸플레이스 커피 매장 목록 사이트
  
- https://mo.twosome.co.kr/so/storeList.do
+   https://mo.twosome.co.kr/so/storeList.do
 
 2. '서울 열린데이터 광장'에서 서울시 부동산 실거래가 정보 데이터를 활용했다.
  가지고 있는 카페 위치 데이터가 2024년 데이터밖에 없기때문에 부동산 데이터도 2024년 데이터만 사용했다.
 
- https://data.seoul.go.kr/dataList/OA-21275/S/1/datasetView.do
+   https://data.seoul.go.kr/dataList/OA-21275/S/1/datasetView.do
  
-※ 다른 깃(Jiyoun22/BDA)과 달리 다른 부동산 거래 정보를 사용하였다. BDA 프로젝트는 도서관을 실제로 사용하는 주민들이 주 대상이기 때문에 집값데이터를 사용하였지만 이번 프로젝트의 주 대상은 상권과도 연관이 있기때문에 빌딩과 같은 상가 거래 정보도 포함된 데이터를 사용했다.
+   ※ 다른 깃(Jiyoun22/BDA)과 달리 다른 부동산 거래 정보를 사용하였다. BDA 프로젝트는 도서관을 실제로 사용하는 주민들이 주 대상이기 때문에 집값데이터를 사용하였지만 이번 프로젝트의 주 대상은 상권과도 연관이 있기때문에 빌딩과 같은 상가 거래 정보도 포함된 데이터를 사용했다.
 
 # 데이터 처리 과정
 
